@@ -5,8 +5,8 @@ ini_set('display_errors', '0');
 
 // Connection Database
 
-$dbuser="kevinkenfack";		 		//user to access your database
-$dbpassword="mercogt"; 			//password to access your database
+$dbuser="root";		 		//user to access your database
+$dbpassword="root"; 			//password to access your database
 $dbname="dbmoney"; 			//name of database
 $dbhost="localhost";		//your database server
 
